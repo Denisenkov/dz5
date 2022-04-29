@@ -1,0 +1,6 @@
+﻿  ggg.cpp
+C:\Users\VVVV\source\repos\klass5 (1)\klass5\ggg.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\VVVV\source\repos\klass5 (1)\klass5\ggg.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  klass5.cpp
+  Создание кода...
+  klass5.vcxproj -> C:\Users\VVVV\source\repos\klass5 (1)\x64\Debug\klass5.exe
